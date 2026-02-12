@@ -1,1 +1,17 @@
 /* styles.css */
+:root {
+  /* CSS HEX */
+--dark-raspberry: #870058ff;
+--cherry-rose: #a4303fff;
+--apricot-cream: #f2d0a4ff;
+--papaya-whip: #ffecccff;
+--tea-green: #c8d6afff;
+}
+
+html {
+  background-color: var(--papaya-whip);
+}
+
+h1 {
+  color: var(--dark-raspberry);
+}
