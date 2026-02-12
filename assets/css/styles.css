@@ -8,7 +8,7 @@
 --tea-green: #c8d6afff;
 }
 
-html {
+body {
   background-color: var(--papaya-whip);
 }
 
