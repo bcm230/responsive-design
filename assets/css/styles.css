@@ -1,5 +1,6 @@
 /* styles.css */
 :root {
+
   /* CSS HEX */
 --dark-raspberry: #870058ff;
 --cherry-rose: #a4303fff;
@@ -7,6 +8,30 @@
 --papaya-whip: #ffecccff;
 --tea-green: #c8d6afff;
 }
+
+* {
+    font-family: Arial, Arial, Helvetica, sans-serif, serif;
+}
+
+h1 {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+h3 {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
 
 body {
   background-color: var(--papaya-whip);
@@ -19,3 +44,4 @@ h1 {
 .col {
     border: 1px solid red;
 }
+
